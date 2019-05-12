@@ -1,0 +1,15 @@
+# CARA PENGGUNAAN #
+
+$ pkg update && pkg upgrade
+$ pkg install git
+$ pkg install php
+$ git clone https://github.com/oxlynx/fbunfriend
+$ ls
+$ cd fbunfriend
+$ php unfriend.php
+
+MASUKKAN TOKEN & PILIH TAHUN,,JIKA INGIN UNFRIEND SEMUA PILIH TAHUN SELANJUTNYA
+CONTOH : INI TAHUN 2019 JIKA MAU UNFRIEND SEMUA JADI TINGGAL PILIH 2020 (POKOKNYA TAHUN SELANJUTNYA DARI TAHUN INI)
+
+
+Creator : OxLynx
